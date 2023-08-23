@@ -33,7 +33,7 @@
 
 ![location](https://raw.githubusercontent.com/ampm-jbnu/2022_ampm_4th_hackathon/master/img/location.jpg)
 
-- __본 대회 장소:__ 공과대학 5호관 4층 414호 및 312호 
+- __본 대회 장소:__ 공과대학 5호관 4층 414호 및 509-1호 
 - __개회 및 폐회 장소:__ 공과대학 5호관 4층 414호
 
 ### 2. 대회일정
