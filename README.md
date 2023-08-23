@@ -59,7 +59,7 @@ wi-fi ssid :
     4층 : software414
     5층 : software509-1
 
-wi-fi passworkd : 
+wi-fi password : 
 
     4층 : software312
     5층 : software509-1
