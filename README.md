@@ -1,7 +1,7 @@
 # 2023 AM:PM 5th Hackathon Official Document
 ![포스터1](https://github.com/ampm-jbnu/2023_ampm_5th_hackathon/assets/74482513/5a689385-aaff-407b-bbbb-df4fdf03fbf4)
 
-## [신청하려면 클릭! - ~ 08/31](https://forms.gle/YoSzbsxM7DuSbUvq7)
+## [신청하려면 클릭! - ~ 09/04 - 모집 마감](https://forms.gle/YoSzbsxM7DuSbUvq7)
 
 # 목차
 
@@ -42,7 +42,8 @@ __09.08-09(금-토) 진행__
 
 자세한 일정 : 아래 사진 참조
 
-![location](https://raw.githubusercontent.com/ampm-jbnu/2022_ampm_4th_hackathon/master/img/timeline.png)
+![location](https://github.com/ampm-jbnu/2023_ampm_5th_hackathon/assets/74482513/2938c8b1-8455-4df2-a722-963abd3e4702")
+
 
 ### 3. 흡연구역
 
